@@ -2,7 +2,9 @@ package controllers;
 
 import com.mongodb.*;
 import di.HelloService;
+import play.Play;
 import play.mvc.*;
+import plugins.EmbedMongoPlugin;
 import plugins.MongoPlugin;
 
 import javax.inject.Inject;
@@ -14,9 +16,12 @@ public class ApplicationController extends Controller {
     private final MongoPlugin mongoPlugin;
 
     @Inject
-    public ApplicationController(final HelloService helloService, final MongoPlugin plugin) {
+    public ApplicationController(final HelloService helloService, final MongoPlugin mongoPlugin) {
         this.helloService = helloService;
-        mongoPlugin = plugin;
+        this.mongoPlugin = mongoPlugin;
+        //general known way:
+        //this.mongoPlugin = Play.application().plugin(EmbedMongoPlugin.class);
+        //works also with interface
     }
 
     public Result hello() {
