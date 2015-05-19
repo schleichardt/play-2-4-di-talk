@@ -1,7 +1,7 @@
 https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [x] go through Highlights 2.4
 * [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaDependencyInjection
-* [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithGuice
+* [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithGuice
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithDatabases
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWebServiceClients
 * [x] go through Migration guide
@@ -9,7 +9,7 @@ https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [ ] go through dev mailing list (search)
 * [ ] go through Javadoc
 * [ ] Intercepting application start-up and shutdown, onSart/onStop
-* [ ] old global -> to DI
+* [ ] old global -> to DI, testclass
 * [x] DI Play questions stackoverflow
 * [ ] Plugin class deprecated, weird without di and extra file for priority, now by dependency lifecycle
 * [ ] use DI for WS in Java stub
