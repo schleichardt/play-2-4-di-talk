@@ -1,6 +1,6 @@
 https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [x] go through Highlights 2.4
-* [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaDependencyInjection
+* [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaDependencyInjection
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithGuice
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithDatabases
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWebServiceClients
