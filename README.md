@@ -5,6 +5,7 @@ https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithDatabases
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWebServiceClients
 * [x] go through Migration guide
+* [ ] Fixed Java GlobalSettings.onRequest regression in RC5
 * [ ] go through mailing list (search)
 * [ ] go through dev mailing list (search)
 * [ ] go through Javadoc
