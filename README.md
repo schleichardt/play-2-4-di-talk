@@ -1,3 +1,4 @@
+https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [ ] go through Highlights 2.4
 * [x] go through Migration guide
 * [ ] go through mailing list (search)
