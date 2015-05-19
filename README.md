@@ -3,6 +3,7 @@ https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaDependencyInjection
 * [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithGuice
 * [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWithDatabases
+* [ ] https://github.com/playframework/playframework/pull/4500/files
 * [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWebServiceClients
 * [x] go through Migration guide
 * [ ] Fixed Java GlobalSettings.onRequest regression in RC5
