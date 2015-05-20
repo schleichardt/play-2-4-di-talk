@@ -32,6 +32,7 @@ https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [ ] testing
 * [ ]  https://www.playframework.com/documentation/2.4.x/JavaDependencyInjection
 * [ ] https://www.playframework.com/documentation/2.4.x/api/java/play/Plugin.html deprecated
+* [ ] bad service example
 * use Singleton for ApplicationLifecycle, otherwise memory leaks
 
 2.3/plugins.EmbedMongoPlugin
