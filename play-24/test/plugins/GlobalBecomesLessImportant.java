@@ -59,7 +59,7 @@ public class GlobalBecomesLessImportant {
             @Override
             public Seq<Binding<?>> bindings(final Environment environment, final play.api.Configuration configuration) {
                 return seq(
-                        bind(HelloService.class).to(HelloServiceImpl.class)
+                        bind(HelloService.class).to(HelloServiceImpl.class)//the onStart stuff will be in the constructor
                 );
             }
         }
