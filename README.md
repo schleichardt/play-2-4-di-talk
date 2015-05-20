@@ -21,8 +21,8 @@ https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [ ] remove global state => Play 3.0, tiny steps to migrate
 * [ ] DI router, see https://www.playframework.com/documentation/2.4.0-RC3/Migration24
 * [ ] circular deps example, resolve with @, vielleicht ist das wie lazy val
-* [ ] how to use Spring
-* [ ] show providers
+* [x] how to use Spring
+* [x] show providers
 * [ ] Dependency Injected Components
    * [ ] stub for WS in test
    * [ ] MessagesApi via MongoDB using embed mongo
