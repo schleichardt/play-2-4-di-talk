@@ -6,14 +6,14 @@ https://www.playframework.com/documentation/2.4.0-RC3/Home
 * [x] https://github.com/playframework/playframework/pull/4500/files
 * [x] https://www.playframework.com/documentation/2.4.x/JavaHttpRequestHandlers
 * [x] Java RequestHandlers for custom rooting
-* [ ] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWebServiceClients
+* [x] https://www.playframework.com/documentation/2.4.0-RC3/JavaTestingWebServiceClients
 * [x] go through Migration guide
-* [ ] Fixed Java GlobalSettings.onRequest regression in RC5
-* [ ] go through mailing list (search)
-* [ ] go through dev mailing list (search)
-* [ ] go through Javadoc
-* [ ] Intercepting application start-up and shutdown, onSart/onStop
-* [ ] old global -> to DI, testclass
+* [x] Fixed Java GlobalSettings.onRequest regression in RC5
+*  go through mailing list (search)
+* go through dev mailing list (search)
+* [x] go through Javadoc
+* [x] Intercepting application start-up and shutdown, onSart/onStop
+* [x] old global -> to DI, testclass
 * [x] DI Play questions stackoverflow
 * [ ] Plugin class deprecated, weird without di and extra file for priority, now by dependency lifecycle
 * [ ] use DI for WS in Java stub
