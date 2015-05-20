@@ -8,9 +8,10 @@ import plugins.EmbedMongoPlugin;
 import plugins.MongoPlugin;
 
 import javax.inject.Inject;
+import javax.inject.Singleton;
 import java.util.List;
 
-
+@Singleton
 public class ApplicationController extends Controller {
     private final HelloService helloService;
     private final MongoPlugin mongoPlugin;

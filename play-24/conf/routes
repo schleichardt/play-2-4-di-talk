@@ -4,7 +4,8 @@
 
 # Home page
 GET     /                           @controllers.ApplicationController.index()
-GET     /hello                     @controllers.ApplicationController.hello()
+GET     /h                          @controllers.ApplicationController.hello()
+GET     /hello                     @controllers.HelloController.hello()
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)

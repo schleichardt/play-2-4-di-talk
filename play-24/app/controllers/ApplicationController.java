@@ -23,7 +23,7 @@ public class ApplicationController extends Controller {
     }
 
     public Result hello() {
-        return ok(helloService.getGreeting());
+        return ok("hello, " + helloService.getGreeting());
     }
 
     public Result index() {
